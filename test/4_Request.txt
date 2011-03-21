@@ -1,0 +1,12 @@
+GET /dic/firm_quote/quotations_xml.wbp?timestamp=1296111157500 HTTP/1.1
+Host: it.troika.ru
+Proxy-Connection: keep-alive
+Referer: http://it.troika.ru/dic/firm_quote/
+X-Requested-With: XMLHttpRequest
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Charset: windows-1251,utf-8;q=0.7,*;q=0.3
+Cookie: userid=ECBEC6FA-6F83-73BE-8258-00000A5A0032; JSESSIONID=af8wobrsacGd; __utmz=208352970.1296106969.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=208352970.848056035.1296106969.1296106969.1296110166.2; __utmc=208352970; __utmb=208352970.3.10.1296110166; wb.remoteAddr=212.33.239.27; wb.referer=http://it.troika.ru/dic/firm_quote/; WB.IsUserLogged=false; WB.UserName=anonymous
+

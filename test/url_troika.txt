@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Тройка Диалог - Внебиржевая сессия</TITLE><META content=" 
+ Тройка Диалог, Внебиржевая сессия" name="description"><META content=" 
+ Тройка Диалог Внебиржевая сессия" name="keywords"><LINK href="/media/inc/inner.css" rel="stylesheet"><LINK href="/media/themes/4/inner.css" rel="stylesheet"><SCRIPT src="/media/inc/FormCheckPro.js"></SCRIPT><SCRIPT src="/media/inc/Http.js"></SCRIPT><script type="text/javascript" src="/media/img/swfobject.js"></script></HEAD><BODY><DIV id="layout"><A id="login" href="http://www.troika.ru">www.troika.ru</A><DIV id="links"><A href="/"><IMG height="11" width="11" src="/media/themes/4/ico-home.gif"></A><A href="/search/"><IMG height="11" width="11" src="/media/themes/4/ico-search.gif"></A><A href="mailto:webmaster@troika.ru?subject=Question about Troika Dialog Internet Trading"><IMG height="11" width="12" src="/media/themes/4/ico-mail.gif"></A></DIV><DIV id="content"><DIV id="vertline"><BR></DIV><DIV id="left"><div id="flashcontent"><A id="logo" href="/"><IMG src="/media/themes/1/logo-inner.gif"></A></div><script type="text/javascript">
+var sObject = new SWFObject("/media/img/logo.swf", "banner", "202", "75", "8", "#FFFFFF");
+sObject.write("flashcontent");
+</script><DIV id="horizline">&nbsp;</DIV><BR><BR><DIV id="sublogo"><A id="logo" href="/"><IMG src="/media/themes/4/it_sublogo.gif"></A></DIV><DIV class="placeholder"><!-- left --><UL id="nav"><LI><A href="/about/"><IMG alt="О Тройке" src="/media/img/nav-about.gif"></A><LI><A href="/press/"><IMG alt="Пресс-центр" src="/media/img/nav-press.gif"></A><LI><A href="/why/"><IMG alt="Почему тройка?" src="/media/img/nav-why.gif"></A><LI><A href="/be_our_client/"><IMG alt="Как стать нашим клиентом" src="/media/img/nav-be_our_client.gif"></A><LI class="curr"><A href="/dic/"><IMG alt="Справочная информация" src="/media/img/nav-dic-act.gif"></A><UL><LI class><A href="/dic/faq/">Часто задаваемые вопросы</A><LI class><A href="/dic/schedule/">Расписание работы</A><LI class><A href="/dic/postal_order/">Перевод денег/ценных бумаг</A><LI class><A href="/dic/master/">Пополнение счета в отделениях Мастер-Банка</A><LI class><A href="/dic/rate/">Тарифы</A><LI class><A href="/dic/key_conditions/">Основные условия совершения сделок</A><LI class><A href="/dic/tallage/">Налоги</A><LI class><A href="/dic/orders_type/">Типы клиентских поручений</A><LI class><A href="/dic/accounting/">Клиентская отчетность</A><LI class><A href="/dic/agreements/">Договоры</A><LI class><A href="/dic/porucheniya/">Поручения и заявления</A><LI class><A href="/dic/marzh_floater/">Маржинальные ценные бумаги</A><LI class><A href="/dic/futures/">Срочный рынок</A><LI class><A href="/dic/code_floater/">Коды финансовых инструментов</A><LI class="curr"><A href="/dic/firm_quote/">Внебиржевая сессия</A><LI class><A target="_blank" href="http://www.troika.ru/rus/Capital_Markets/Custody/dividends.wbp">Дивидендный календарь</A><LI class><A target="_blank" href="http://www.troika.ru/rus/Capital_Markets/Custody/Corp_actions.wbp
+">Корпоративные действия и информация</A><LI class><A href="/dic/links/">Полезные ссылки</A></UL><LI><A href="/programm/"><IMG alt="Программы и инструкции" src="/media/img/nav-programm.gif"></A><LI><A href="/an/"><IMG alt="Аналитические материалы" src="/media/img/nav-an.gif"></A><LI><A href="/instruments/"><IMG alt="Инструментарий" src="/media/img/nav-instruments.gif"></A><LI><A href="/Question/"><IMG alt="Задайте вопрос" src="/media/img/nav-Question.gif"></A><LI><A href="/seminars/"><IMG alt="Семинары" src="/media/img/nav-seminars.gif"></A></UL><!-- /left --><DIV id="search"><FORM enctype="multipart/form-data" method="post" action="/search/index.wbp" name="main" id="search"><INPUT name="search.query" format="any::Поиск" class="text" type="text"><INPUT onclick="FormCheckPro('search'); return false;" class="image" src="/media/img/btn-search.gif" type="image"></FORM></DIV></DIV></DIV><TABLE width="100%"><TR><TD valign="top" id="center"><DIV id="floatimage"><DIV><SCRIPT> 
+var id = '2ee3626c-0a00-001e-01ef-950216073c03'; 
+var seed = Math.random(); 
+ 
+document.write('<IMG BORDER="0" SRC="/servlet/image?id='+ id +'&amp;seed='+ seed +'">'); 
+ 
+   </SCRIPT></DIV></DIV><H1>Внебиржевая сессия</H1><!-- content --><SCRIPT src="/media/inc/Http.js"></SCRIPT><SCRIPT src="/media/inc/readfile.js"></SCRIPT><SCRIPT src="/media/inc/int_quoteSet.js"></SCRIPT><SCRIPT src="/media/inc/Announce.js"></SCRIPT><SCRIPT> 
+//var date = new Date(); 
+//var MonthNamesRus = new Array("Января","Февраля","Марта","Апреля","Мая","Июня","Июля","Августа","Сентября","Октября","Ноября","Декабря"); 
+</SCRIPT><P><SMALL id="quotation_time"></SMALL></P><style>
+table.quotation_common th {font-size:9px; color:#999999; text-align:left; padding:1px 21px 2px 0px;}
+table.quotation_common td, table.quotation_common th {padding:6px 21px 7px 21px; vertical-align: middle;}
+table.quotation_common td {text-align: right;}
+table.quotation_common .colorize td, table.quotation_common .colorize th {padding: 1px 21px 2px 21px; background-color: #cce5df}
+</style><TABLE class="quotation_common"><TR><th>эмитент</th><Th><NOBR>покупка</NOBR></Th><Th><NOBR>продажа</NOBR></Th><Th><NOBR>объем, шт.</NOBR></Th></TR><TBODY id="quotes"><TR><TD><EM>loading...</EM></TD></TR></TBODY></TABLE><SCRIPT> 
+links = {'SLAVNEFT': "http://www1.troika.ru/doc_eng.jsp?category_id=F639C1-6F74-3EF6-9130-00007F000001&document_id=EE3D11-6F78-10EE-8EFB-0000FFFF8332"}; 
+ReadFile.time = $('quotation_time');
+ReadFile.start(); 
+ReadFile.read( '/dic/firm_quote/quotations_xml.wbp' ); 
+</SCRIPT><!-- /content --></TD><TD id="right"><DIV class="placeholder"><P><SMALL class="contacts"><nobr><SPAN class="phone">(495) 258-0520</SPAN></nobr>
+Россия, 125 009 Москва <BR>  
+Романов переулок, дом 4<BR><A href="/about/branches/moscow/index.wbp">Карта проезда</A><BR><A href="/about/branches/regions/">Телефоны и адреса офисов</A><BR></SMALL></P><BR><BR><DIV class="mainnews"><div><img style="margin-right: 10px;" src="/media/img/main-news-img-2.jpg" align="left"><div style="display: block; margin-left: 72px;">
+ Утренний брифинг<br><br><a style="margin-bottom: 0px;" target="_blank" href="http://www1.troika.ru/eth/vs/morning_br_rus_redirect.jsp">
+   Ситуация на рынке акций<br></a>
+ 
+   5 минут ежедневно в 10:00<br><span id="breefingLastUpdate"></span><script type="text/javascript">
+    
+     var request = new Http.Request('/include/data/morning_briefing/date.txt');
+     var response = request.send();
+     if(response.isSuccess()) {
+      document.getElementById('breefingLastUpdate').innerHTML = '<font style="color:#999999;font-size:9px">Обновление: '+response.getText()+'</font>';
+     }
+    
+   </script><br><br><a style="margin-bottom: 0px;" target="_blank" href="http://www1.troika.ru/eth/vs/morning_br_fi_rus_redirect.jsp">
+   Ситуация на рынке облигаций
+ </a>
+   5 минут ежедневно в 10:15<br><span id="breefingLastUpdate1"></span><script type="text/javascript">
+    
+     var request = new Http.Request('/include/data/morning_briefing/date_bonds.txt');
+     var response = request.send();
+     if(response.isSuccess()) {
+      document.getElementById('breefingLastUpdate1').innerHTML = '<font style="color:#999999;font-size:9px">Обновление: '+response.getText()+'</font>';
+     }
+    
+   </script></div></div><br><DIV id="textBanner_23d66ab3-0a00-001e-00cb-5260911d66db"></DIV></DIV><IFRAME style="display:none;" src="/banner.wbp?id=23d66ab3-0a00-001e-00cb-5260911d66db"></IFRAME></DIV></TD></TR></TABLE><DIV id="footer"><BR><P><SPAN class="green">&copy; 2000-2011 ЗАО ИК &laquo;Тройка Диалог&raquo;</SPAN><BR><BR><a href="/about/law.wbp">Правовой режим сайта </a><BR><a href="/about/disclosure.wbp">Раскрытие информации </a><BR><BR>
+
+Закрытое акционерное общество &laquo;Инвестиционная компания &laquo;Тройка Диалог&raquo; вправе оказывать брокерские и депозитарные услуги на основании следующих лицензий ФСФР России, а также оказывать иные сопутствующие услуги на рынке ценных бумаг: 
+<BR>
+&mdash;&nbsp;№177-06514-100000 на осуществление брокерской деятельности от 08 апреля 2003 года; 
+<BR>
+&mdash;&nbsp;№177-06518-010000 на осуществление дилерской деятельности от 08 апреля 2003 года; 
+<BR>
+&mdash;&nbsp;№177-06522-001000 на осуществление деятельности по управлению ценными бумагами от 08 апреля 2003 года; 
+<BR>
+&mdash;&nbsp;№177-06527-000100 на осуществление депозитарной деятельности от 08 апреля 2003 года; 
+ 
+</P><p>ЗАО ИК &laquo;Тройка Диалог&raquo; имеет статус финансового консультанта на рынке ценных бумаг.</p><p>ЗАО ИК &laquo;Тройка Диалог&raquo; также вправе осуществлять деятельность биржевого посредника по совершению фьючерсных и опционных сделок на основании Лицензии биржевого посредника на совершение фьючерсных и опционных сделок в биржевой торговле на территории Российской Федерации от 14 октября 2010 года № 1523, выданной ФСФР России.</p><p>Информационно-аналитические услуги и материалы предоставляются ЗАО ИК &laquo;Тройка Диалог&raquo; в рамках оказания указанных услуг и не являются самостоятельным видом деятельности.</p><p>ЗАО ИК &laquo;Тройка Диалог&raquo; вправе отказать в оказании указанных услуг лицам, не удовлетворяющим условиям, предъявляемым ЗАО ИК &laquo;Тройка Диалог&raquo; к своим клиентам, или в отношении которых применимым к ним законодательством установлен запрет/ограничения на оказание таких услуг, а также в иных случаях, предусмотренных применимым законодательством и/или внутренними процедурами ЗАО ИК &laquo;Тройка Диалог&raquo;.</p><p>Ваши замечания и пожелания в отношении настоящего сайта направляйте <a href="mailto:webmaster@troika.ru?subject=Problem%20with%20Troika%20Dialog%20website">вебмастеру</a>.</p><DIV id="articul"><IMG src="/media/img/articul.gif"></DIV></DIV><noindex><style>
+ 
+  div.banners a img{
+   filter: Alpha(opacity=25), Gray;
+   -moz-opacity:0.2;
+  }
+
+  div.banners a:hover img{
+   filter: Alpha(opacity=100);
+   -moz-opacity:1;
+  }
+ 
+ </style><div style="text-align: right; padding: 0 20px 0 0" class="banners"><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-110725-14']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+</script></div></noindex></DIV></DIV></BODY></HTML>
+
+<!-- WB v1.85 [ 20070618171013 ] - 177 ms from scratch. Started at Thu Jan 27 00:13:00 MSK 2011 -->
